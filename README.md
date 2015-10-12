@@ -1,2 +1,3 @@
-# passpy
-Platform-As-A-Service for Data Science with Python
+# PaaSPy
+
+Platform as a Service for Data Science with Python
